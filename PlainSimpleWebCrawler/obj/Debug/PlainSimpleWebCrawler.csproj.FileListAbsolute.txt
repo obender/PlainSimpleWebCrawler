@@ -1,0 +1,8 @@
+D:\Develop\PlainSimpleWebCrawler\PlainSimpleWebCrawler\obj\Debug\PlainSimpleWebCrawler.csprojResolveAssemblyReference.cache
+D:\Develop\PlainSimpleWebCrawler\PlainSimpleWebCrawler\bin\Debug\PlainSimpleWebCrawler.dll
+D:\Develop\PlainSimpleWebCrawler\PlainSimpleWebCrawler\bin\Debug\PlainSimpleWebCrawler.pdb
+D:\Develop\PlainSimpleWebCrawler\PlainSimpleWebCrawler\bin\Debug\HtmlAgilityPack.dll
+D:\Develop\PlainSimpleWebCrawler\PlainSimpleWebCrawler\bin\Debug\HtmlAgilityPack.pdb
+D:\Develop\PlainSimpleWebCrawler\PlainSimpleWebCrawler\bin\Debug\HtmlAgilityPack.xml
+D:\Develop\PlainSimpleWebCrawler\PlainSimpleWebCrawler\obj\Debug\PlainSimpleWebCrawler.dll
+D:\Develop\PlainSimpleWebCrawler\PlainSimpleWebCrawler\obj\Debug\PlainSimpleWebCrawler.pdb
